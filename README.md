@@ -37,7 +37,7 @@ PROGRAM  Primes
    
 END PROGRAM  Primes
 ```
-Build and Run:
+### Build and Run:
 
 <p align="center">
 	<img src="https://github.com/ginppian/Fortran.Primes/blob/master/img1.png" width="476" height="420">
