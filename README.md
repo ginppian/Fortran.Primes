@@ -39,5 +39,5 @@ END PROGRAM  Primes
 ```
 
 <p align="center">
-	<img src="https://github.com/ginppian/Fortran.Primes/blob/master/img1.png" width="952" height="840">
+	<img src="https://github.com/ginppian/Fortran.Primes/blob/master/img1.png" width="476" height="420">
 </p>
